@@ -1,4 +1,4 @@
-ForkMe
+ParksBioInf
 ======
 
 A group of files to house my homework assignments.

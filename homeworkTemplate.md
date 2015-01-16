@@ -1,4 +1,4 @@
-##Name, GitHub repo URL
+Jenn Parks, JParks1976
 
 ##Assignment name
 
